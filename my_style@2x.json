@@ -1,9 +1,16 @@
 {
-  "vine": {
+  "oliveto": {
     "height": 48,
     "pixelRatio": 2,
     "width": 48,
     "x": 0,
+    "y": 0
+  },
+  "vine": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
     "y": 0
   }
 }
